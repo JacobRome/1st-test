@@ -114,7 +114,8 @@ if (totalAcres % 3 === 0)
 
 */
 
-acresLeft = 0 
+let (acresLeft = 0)
+
 
 
 // CODE HERE

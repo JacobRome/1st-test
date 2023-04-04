@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-gitDefinition =("git is a way to easily make and accsess files without opening the files tab in your computer")
+gitDefinition =("a version control system and keeps track of changes")
 console.log(gitDefinition)
 //////////////////PROBLEM 2////////////////////
 /*
@@ -19,7 +19,7 @@ console.log(gitDefinition)
 */
 
 //CODE HERE
-gitHubDefinition =("a place to turn in the repos where we add what we've code in vscode") 
+gitHubDefinition =("a cloud storage system for all repos") 
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -27,7 +27,7 @@ gitHubDefinition =("a place to turn in the repos where we add what we've code in
 */
 
 //CODE HERE
-gitInitDefinition =("adds to current file to the git files")
+gitInitDefinition =("intialozes the connection to git")
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -56,7 +56,7 @@ gitStatusDefinition =("checks the status in git of the current file")
 
 //CODE HERE
 
-gitAddDefinition =(" adds to the repo")
+gitAddDefinition =(" adds the changes you made to the repo")
 
 console.log (gitAddDefinition) 
 
@@ -71,7 +71,7 @@ console.log (gitAddDefinition)
 
 //CODE HERE
 
-gitCommtDefinition =("adds the file to the git repo")
+gitCommtDefinition =("adds the current file to the git repo")
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -81,4 +81,4 @@ gitCommtDefinition =("adds the file to the git repo")
 
 //CODE HERE
 
-gitPushDefinition =(" adds the git to the repo")
+gitPushDefinition =(" adds what you have saved locally in the git to the repo")
